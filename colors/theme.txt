@@ -1,0 +1,6 @@
+theme: {
+    dark: {
+        primary: blue,
+        secondary: green,
+    }
+}
